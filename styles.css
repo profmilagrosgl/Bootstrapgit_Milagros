@@ -1,0 +1,26 @@
+
+    body {
+        padding-top: 56px; /* Altura de la barra de navegación en dispositivos pequeños */
+    }
+
+    /* Estilo para resaltar la sección principal del sitio */
+    .main-section {
+        background-color: #f8f9fa; /* Color de fondo gris claro */
+        padding: 60px 0;
+    }
+
+    /* Estilo para resaltar las tarjetas de servicios */
+    .service-card {
+        border: 1px solid #dee2e6;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+
+    .carousel-item img {
+        height: 400px; /* Puedes ajustar esta altura según tus necesidades */
+        object-fit: cover; /* Ajusta la imagen para cubrir completamente el contenedor */
+    }
+
+    form {
+        margin-bottom: 20px;
+    }
